@@ -118,7 +118,7 @@ The system's database design consists of the following key components:
 
 ## ERD
 
-The Entity Relationship Diagram (ERD) was created using **draw.io**. It provides a complete visual representation of the core entities, attributes, and relationships used in the inventory management database system.
+The Entity Relationship Diagram (ERD) was created using **mermaid chart**. It provides a complete visual representation of the core entities, attributes, and relationships used in the inventory management database system.
 
 **View ERD:**  
 ![Inventory Management System ERD](DBM%20ERD.png)
@@ -133,5 +133,5 @@ The Entity Relationship Diagram (ERD) was created using **draw.io**. It provides
    ```bash
    git clone https://github.com/nessa360/wk-8-nessa360.git
    cd inventory-management-system
-   Use a relational database management system ( MySQL workbench).
-   Run the database.sql scripts in to create the database and tables
+   Use a relational database management system (MySQL workbench).
+   Run the inventory_management.sql to create the database and tables
